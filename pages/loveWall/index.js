@@ -62,10 +62,10 @@ Page({
 		that.setData({currentTab: e.detail.current});
 	},
 	goDetails:function (e) {
-		var objId = e.currentTarget.dataset.id;
-		wx.navigateTo({
-			url: "../loveWall-details/loveWall-details?objId=" + objId
-		})
+		// var objId = e.currentTarget.dataset.id;
+		// wx.navigateTo({
+		// 	url: "../loveWall-details/loveWall-details?objId=" + objId
+		// })
 	},
 	swichNav: function (e) {
 		var that = this;
