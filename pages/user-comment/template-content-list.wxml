@@ -1,4 +1,4 @@
-<template name="content-list">
+<template name="comment-list">
     <block wx:for="{{contentList}}">
         <navigator class="content-item" data-id="{{item.objectId}}" bindtap="goDetails">
              <view class="content-header">

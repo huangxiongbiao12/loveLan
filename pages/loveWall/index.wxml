@@ -17,9 +17,9 @@
       <swiper-item class="swiper-item">
         <scroll-view scroll-top="{{scrollTop}}" class="module-content" bindtouchstart="scrollstart" bindtouchend="scrollend">
           <template is="content-list" data="{{contentList}}" />
-          <view class="tips">
+          <!-- <view class="tips">
             End
-          </view>
+          </view> -->
 
         </scroll-view>
       </swiper-item>

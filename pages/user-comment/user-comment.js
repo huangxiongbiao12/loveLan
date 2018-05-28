@@ -18,7 +18,7 @@ Page({
     userInfo:"",
     commentList:[
       {
-        content:"今天是我们领证一周年，爱你老婆！感谢有你，我们生活才不会这么孤单，无论以后如何我都会待你如今。",
+        contentText:"今天是我们领证一周年，爱你老婆！感谢有你，我们生活才不会这么孤单，无论以后如何我都会待你如今。",
         applaudNum:128,
         commentNum:4,
         newsNum:2,

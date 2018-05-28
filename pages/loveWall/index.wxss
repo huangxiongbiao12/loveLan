@@ -63,6 +63,9 @@
         overflow: auto !important;
         height: auto; }
       #app .tabs .tab-content .module-content {
+        position: absolute;
+        bottom: 0;
+        top: 0;
         height: auto;
         overflow-y: auto; }
         #app .tabs .tab-content .module-content .tips {
